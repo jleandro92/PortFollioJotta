@@ -46,7 +46,7 @@ export default function Contact() {
         <div className="flex flex-wrap justify-center gap-4 mt-12">
           {/* WhatsApp */}
           <a
-            href="#"
+            href="https://wa.me/5584991014561"
             target="_blank"
             rel="noreferrer"
             className="
@@ -66,7 +66,7 @@ export default function Contact() {
 
           {/* Email */}
           <a
-            href="#"
+            href="mailto:jose.dev0802@gmail.com"
             className="
               px-6 py-4
               rounded-2xl
@@ -83,7 +83,7 @@ export default function Contact() {
 
           {/* GitHub */}
           <a
-            href="#"
+            href="https://github.com/jleandro92"
             target="_blank"
             rel="noreferrer"
             className="
@@ -102,7 +102,7 @@ export default function Contact() {
 
           {/* Instagram */}
           <a
-            href="#"
+            href="https://www.instagram.com/jotta.tsx/"
             target="_blank"
             rel="noreferrer"
             className="

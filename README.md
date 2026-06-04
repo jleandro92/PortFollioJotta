@@ -1,16 +1,162 @@
-# React + Vite
+# 🚀 Jotta Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Meu portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e experiências nas áreas de Desenvolvimento de Software e Design.
 
-Currently, two official plugins are available:
+![LigaPro](./public/images/ligapro-preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👨‍💻 Sobre Mim
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), desenvolvedor Full Stack e designer criativo.
 
-## Expanding the ESLint configuration
+Tenho experiência no desenvolvimento de aplicações Web e Mobile utilizando tecnologias modernas, além de atuar com criação de artes digitais, interfaces e projetos visuais.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+### Backend (Projetos)
+
+- Java
+- Spring Boot
+- MongoDB
+- MySQL
+
+### Ferramentas
+
+- Git
+- GitHub
+- Figma
+- VS Code
+
+---
+
+## 📂 Projetos em Destaque
+
+### ⚽ LigaPro
+
+Sistema completo para gerenciamento de campeonatos esportivos amadores.
+
+#### Funcionalidades
+
+- Cadastro de campeonatos
+- Gestão de equipes
+- Cadastro de atletas
+- Controle de partidas
+- Tabelas de classificação
+- Estatísticas
+- Comunicação entre participantes
+
+#### Tecnologias
+
+- React
+- Spring Boot
+- MongoDB
+- TypeScript
+
+---
+
+### 📋 Sistema de Formalização de ETP e DFD
+
+Plataforma voltada para auxiliar a criação e gerenciamento de:
+
+- ETP (Estudo Técnico Preliminar)
+- DFD (Documento de Formalização da Demanda)
+
+---
+
+### 📱 DietaAPP
+
+Aplicativo para acompanhamento alimentar e organização nutricional.
+
+---
+
+### 🎮 Games360
+
+Projeto para consulta e gerenciamento de informações relacionadas ao universo gamer.
+
+---
+
+### 📅 AgendaMidia
+
+Sistema para gerenciamento e organização de conteúdos digitais.
+
+---
+
+## 🎨 Design
+
+Além do desenvolvimento de software, também realizo:
+
+- Artes para redes sociais
+- Wallpapers personalizados
+- Topos de bolo
+- Materiais gráficos
+- Design de interfaces (UI/UX)
+
+---
+
+## 🚀 Executando o Projeto
+
+### Instalar dependências
+
+```bash
+npm install
+```
+
+### Executar ambiente de desenvolvimento
+
+```bash
+npm run dev
+```
+
+### Gerar build de produção
+
+```bash
+npm run build
+```
+
+### Visualizar build localmente
+
+```bash
+npm run preview
+```
+
+---
+
+## 🌐 Deploy
+
+O projeto está preparado para deploy em:
+
+- Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+## 📞 Contato
+
+📧 E-mail: seuemail@email.com
+
+💼 LinkedIn:
+https://linkedin.com/in/seuusuario
+
+🐙 GitHub:
+https://github.com/seuusuario
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso pessoal e foi desenvolvido para apresentação profissional e acadêmica.
+
+---
+
+### Desenvolvido por Jotta ❤️
