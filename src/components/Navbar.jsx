@@ -6,7 +6,9 @@ export default function Navbar() {
       <nav className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
 
         <h1 className="font-black text-xl">
-          <a href="#home" className="text-green-400">J</a>OTTA
+          <a href="#home">
+            <span className="text-green-400">J</span>OTTA
+          </a>
         </h1>
 
         <div className="hidden md:flex gap-8 text-slate-300">
