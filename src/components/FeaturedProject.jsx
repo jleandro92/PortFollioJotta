@@ -165,7 +165,7 @@ export default function FeaturedProject() {
             "
           >
             <img
-              src="/images/pizzaria-preview.svg"
+              src="/images/oizza.png"
               alt="Preview visual da plataforma de pedidos para pizzaria"
               className="
                 w-full
