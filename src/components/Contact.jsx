@@ -34,13 +34,13 @@ export default function Contact() {
         </span>
 
         <h2 className="text-4xl md:text-6xl font-black mt-4">
-          Vamos Conversar?
+          Vamos construir algo juntos?
         </h2>
 
         <p className="mt-6 text-slate-400 max-w-2xl mx-auto leading-8">
-          Seja para um projeto, uma oportunidade profissional,
-          uma parceria ou apenas trocar ideias sobre tecnologia,
-          design e inovação.
+          Estou aberto a oportunidades, projetos e conversas sobre
+          desenvolvimento, interfaces e soluções digitais com foco em
+          experiência, organização e resultado.
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 mt-12">
@@ -122,7 +122,7 @@ export default function Contact() {
 
         <div className="mt-12 pt-8 border-t border-slate-800">
           <p className="text-slate-500">
-            Desenvolvedor Full Stack • Designer Criativo • Criador de Projetos Digitais
+            Full Stack Development • UI Design • Produtos Digitais
           </p>
         </div>
       </motion.div>

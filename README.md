@@ -2,7 +2,7 @@
 
 Meu portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e experiências nas áreas de Desenvolvimento de Software e Design.
 
-![LigaPro](./public/images/ligapro-preview.png)
+![Plataforma de Pedidos para Pizzaria](./public/images/pizzaria-preview.svg)
 
 ---
 
@@ -41,26 +41,25 @@ Tenho experiência no desenvolvimento de aplicações Web e Mobile utilizando te
 
 ## 📂 Projetos em Destaque
 
-### ⚽ LigaPro
+### 🍕 Plataforma de Pedidos para Pizzaria
 
-Sistema completo para gerenciamento de campeonatos esportivos amadores.
+Trabalho de Conclusão de Curso em desenvolvimento para gerenciamento de pedidos de uma pizzaria.
 
 #### Funcionalidades
 
-- Cadastro de campeonatos
-- Gestão de equipes
-- Cadastro de atletas
-- Controle de partidas
-- Tabelas de classificação
-- Estatísticas
-- Comunicação entre participantes
+- Autenticação
+- Gerenciamento de pedidos
+- Organização de status dos pedidos
+- Comunicação em tempo real com WebSocket
+- Interface web com foco em clareza operacional
 
 #### Tecnologias
 
-- React
+- Java
 - Spring Boot
 - MongoDB
-- TypeScript
+- React
+- WebSocket
 
 ---
 
@@ -143,13 +142,17 @@ O projeto está preparado para deploy em:
 
 ## 📞 Contato
 
-📧 E-mail: seuemail@email.com
+📧 E-mail:
+mailto:jose.dev0802@gmail.com
 
-💼 LinkedIn:
-https://linkedin.com/in/seuusuario
+💬 WhatsApp:
+https://wa.me/5584991014561
 
 🐙 GitHub:
-https://github.com/seuusuario
+https://github.com/jleandro92
+
+📷 Instagram:
+https://www.instagram.com/jotta.tsx/
 
 ---
 

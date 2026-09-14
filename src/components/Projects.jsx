@@ -1,18 +1,17 @@
 import { motion } from "framer-motion";
-import { ExternalLink} from "lucide-react";
-import { FaGithub } from "react-icons/fa";
+import { BadgeCheck } from "lucide-react";
 
 const projects = [
   {
-    title: "LigaPro",
+    title: "Plataforma de Pedidos para Pizzaria",
     description:
-      "Plataforma para gerenciamento de campeonatos esportivos amadores, permitindo controle de equipes, atletas, partidas, classificação e estatísticas.",
-    techs: ["React", "Spring Boot", "MongoDB"],
+      "TCC em desenvolvimento para gerenciamento de pedidos de uma pizzaria, com autenticação, organização de status e comunicação em tempo real.",
+    techs: ["Java", "Spring Boot", "MongoDB", "React", "WebSocket"],
     status: "TCC • Em desenvolvimento",
-    image: "/images/ligapro-preview.png",
+    image: "/images/pizzaria-preview.svg",
   },
   {
-    title: "Agenda para Eventos de cobertura de Midia",
+    title: "Agenda para Eventos de Cobertura de Mídia",
     description:
       "Sistema para organização e gerenciamento de eventos de cobertura de mídia, facilitando a coordenação de atividades, recursos e comunicação entre equipes.",
     techs: ["React Native", "Java"],
@@ -76,7 +75,8 @@ export default function Projects() {
 
         <p className="mt-6 text-slate-400 max-w-3xl mx-auto">
           Alguns dos projetos que desenvolvi durante minha
-          trajetória de aprendizado e evolução na área de tecnologia.
+          trajetória de aprendizado e evolução em desenvolvimento,
+          produto digital e design de interfaces.
         </p>
       </motion.div>
 
@@ -151,30 +151,20 @@ export default function Projects() {
                 ))}
               </div>
 
-              <div className="flex gap-4 mt-8">
-                <button
+              <div className="mt-8 pt-5 border-t border-slate-800">
+                <span
                   className="
-                    flex
+                    inline-flex
                     items-center
                     gap-2
                     text-green-400
+                    text-sm
+                    font-semibold
                   "
                 >
-                  <FaGithub />
-                  Código
-                </button>
-
-                <button
-                  className="
-                    flex
-                    items-center
-                    gap-2
-                    text-green-400
-                  "
-                >
-                  <ExternalLink size={18} />
-                  Demo
-                </button>
+                  <BadgeCheck size={18} />
+                  {project.status}
+                </span>
               </div>
             </div>
           </motion.div>

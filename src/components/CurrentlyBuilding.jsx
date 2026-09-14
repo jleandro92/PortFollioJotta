@@ -9,9 +9,9 @@ import {
 const items = [
   {
     icon: Rocket,
-    title: "LigaPro",
+    title: "TCC da Pizzaria",
     description:
-      "Desenvolvimento do meu Trabalho de Conclusão de Curso, uma plataforma para gestão de campeonatos esportivos amadores.",
+      "Desenvolvimento de uma plataforma para gerenciamento de pedidos, autenticação e comunicação em tempo real.",
   },
   {
     icon: GraduationCap,
@@ -23,7 +23,7 @@ const items = [
     icon: Code2,
     title: "Full Stack Development",
     description:
-      "Evoluindo constantemente em React, React Native, TypeScript, Java e Spring Boot.",
+      "Evoluindo constantemente em React, React Native, Java, Spring Boot, MongoDB e WebSocket.",
   },
   {
     icon: Lightbulb,

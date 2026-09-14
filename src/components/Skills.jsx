@@ -29,6 +29,7 @@ const skills = [
       "Spring Boot",
       "Node.js",
       "REST API",
+      "WebSocket",
     ],
   },
   {

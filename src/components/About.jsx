@@ -61,9 +61,9 @@ const timeline = [
   },
   {
     year: "2026",
-    title: "LigaPro e Projetos Próprios",
+    title: "TCC da Pizzaria e Projetos Próprios",
     description:
-      "Desenvolvimento de soluções voltadas para gestão esportiva e criação de produtos digitais próprios.",
+      "Desenvolvimento de uma plataforma para gerenciamento de pedidos de pizzaria, com autenticação, pedidos e comunicação em tempo real.",
   },
 ];
 
@@ -111,10 +111,10 @@ export default function About() {
 
             <br /><br />
 
-            Atualmente trabalho em projetos pessoais como o LigaPro, uma plataforma
-            voltada para a gestão de campeonatos esportivos amadores, além de
-            continuar explorando novas ideias, tecnologias e oportunidades de
-            crescimento profissional.
+            Atualmente trabalho no meu TCC, uma plataforma para gerenciamento
+            de pedidos de uma pizzaria, com autenticação, organização dos
+            pedidos e comunicação em tempo real usando Java, Spring Boot,
+            MongoDB, React e WebSocket.
         </p>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-16 mb-20">
@@ -198,7 +198,7 @@ export default function About() {
 
           {timeline.map((item, index) => (
             <motion.div
-              key={item.year}
+              key={`${item.year}-${item.title}`}
               initial={{ opacity: 0, x: index % 2 === 0 ? -60 : 60 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}

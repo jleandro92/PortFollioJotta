@@ -1,0 +1,43 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="34" fill="#020617"/>
+  <rect x="40" y="42" width="1120" height="676" rx="30" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+  <circle cx="1010" cy="142" r="190" fill="#22C55E" opacity=".08"/>
+  <circle cx="205" cy="616" r="170" fill="#16A34A" opacity=".07"/>
+  <rect x="84" y="86" width="1032" height="78" rx="22" fill="#111827" stroke="#1F2937"/>
+  <circle cx="128" cy="125" r="18" fill="#22C55E"/>
+  <path d="M119 125C119 120.029 123.029 116 128 116C132.971 116 137 120.029 137 125C137 129.971 132.971 134 128 134C123.029 134 119 129.971 119 125Z" fill="#052E16"/>
+  <text x="166" y="117" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Pizzaria Admin</text>
+  <text x="166" y="144" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">Pedidos, status e atendimento em tempo real</text>
+  <rect x="894" y="104" width="180" height="42" rx="21" fill="#052E16" stroke="#16A34A"/>
+  <circle cx="922" cy="125" r="6" fill="#22C55E"/>
+  <text x="940" y="131" fill="#BBF7D0" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">WebSocket ativo</text>
+  <rect x="84" y="198" width="300" height="456" rx="24" fill="#0B1220" stroke="#1E293B"/>
+  <text x="116" y="242" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Resumo</text>
+  <rect x="116" y="272" width="236" height="84" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="140" y="306" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Pedidos abertos</text>
+  <text x="140" y="338" fill="#22C55E" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900">12</text>
+  <rect x="116" y="380" width="236" height="84" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="140" y="414" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Em preparo</text>
+  <text x="140" y="446" fill="#22C55E" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900">07</text>
+  <rect x="116" y="488" width="236" height="84" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="140" y="522" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Finalizados</text>
+  <text x="140" y="554" fill="#22C55E" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900">18</text>
+  <rect x="420" y="198" width="696" height="456" rx="24" fill="#0B1220" stroke="#1E293B"/>
+  <text x="456" y="242" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Fila de pedidos</text>
+  <text x="456" y="272" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">Atualização operacional para cozinha e atendimento</text>
+  <rect x="456" y="314" width="624" height="78" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="486" y="347" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Pedido #024</text>
+  <text x="486" y="373" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Pizza grande + refrigerante</text>
+  <rect x="904" y="334" width="132" height="34" rx="17" fill="#052E16" stroke="#16A34A"/>
+  <text x="929" y="357" fill="#BBF7D0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800">Em preparo</text>
+  <rect x="456" y="414" width="624" height="78" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="486" y="447" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Pedido #025</text>
+  <text x="486" y="473" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Pizza média + borda recheada</text>
+  <rect x="904" y="434" width="132" height="34" rx="17" fill="#172554" stroke="#2563EB"/>
+  <text x="936" y="457" fill="#BFDBFE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800">Recebido</text>
+  <rect x="456" y="514" width="624" height="78" rx="18" fill="#111827" stroke="#1F2937"/>
+  <text x="486" y="547" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Pedido #026</text>
+  <text x="486" y="573" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">Combo família</text>
+  <rect x="904" y="534" width="132" height="34" rx="17" fill="#422006" stroke="#F59E0B"/>
+  <text x="932" y="557" fill="#FDE68A" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800">Entrega</text>
+</svg>

@@ -31,13 +31,13 @@ export default function Footer() {
 
           {/* Cargo */}
           <p className="mt-4 text-slate-400 text-lg">
-            Desenvolvedor Full Stack • Designer Criativo • Criador de Projetos
+            Desenvolvedor Full Stack • Designer Criativo • Produtos Digitais
           </p>
 
           {/* Frase */}
           <p className="mt-8 text-slate-500 max-w-xl mx-auto leading-7">
-            Transformando ideias em experiências digitais através
-            da tecnologia, criatividade e inovação.
+            Unindo desenvolvimento e design para criar soluções
+            digitais funcionais, modernas e visualmente consistentes.
           </p>
 
           {/* Navegação rápida */}
